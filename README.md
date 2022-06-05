@@ -16,11 +16,14 @@ and I'm currently learning C.
 
 I make some plugins for minecraft **spigot** and **paper**, but I also have tons of other projects.
 
-I play a lot of minecraft, and I can make cool things with **command blocks**, **datapacks** and **resource packs**.
+I play minecraft a lot, and I can make cool things with **command blocks**, **datapacks** and **resource packs**.
 
 I make projects just for myself, but i also work on
+- **ElementaryLand**: https://discord.gg/7KFdWef
+  - I'm a **developer** 💻
 - **Nosto**: https://discord.io/Nosto
-  - As a **plugin developer** 💻 mainly, but also as a **builder** 🏗️
+  - As a **plugin developer** 💻 mainly,
+  - also as a **builder** 🏗️
 
 ***
 
