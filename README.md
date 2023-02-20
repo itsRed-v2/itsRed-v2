@@ -2,23 +2,20 @@
 
 ***
 
-I like to code.
+I make some plugins for minecraft **spigot** and **paper**, but I also have tons of other projects.
+
+I play minecraft a lot, and I can make cool things with **command blocks**, **datapacks** and **resource packs**.
+
+I make projects just for myself, but i also work on **ElementaryLand**: https://discord.gg/7KFdWef
+
+***
 
 I know:
 - Java
 - Javascript
 - Python
 - HTML & CSS
-
-and I'm currently learning C.
-
-***
-
-I make some plugins for minecraft **spigot** and **paper**, but I also have tons of other projects.
-
-I play minecraft a lot, and I can make cool things with **command blocks**, **datapacks** and **resource packs**.
-
-I make projects just for myself, but i also work on **ElementaryLand**: https://discord.gg/7KFdWef
+- C (a little bit)
 
 ***
 
