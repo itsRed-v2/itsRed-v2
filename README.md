@@ -1,25 +1,37 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm a nerd and I love **mathematics** (like really), physics and of course programming and computer science.
+
+## What I do
+
+A considerable amount of my lifetime was spent on Minecraft, and therefore
+- 🔩 I know a lot about the technical aspect of the game (which is fascinating) and I can make creations with command blocks, datapacks, resource packs, and reds,
+- 🔌 I made many plugins for spigot/paper, and I'm now trying to make a fabric clientside mod.
+
+However I didn't only do Minecraft-related projects, I also made a **discord bot** 🤖, a **web tool** 🔧, and many more fun projects.
+
+I also sometimes play on [Codingame](https://www.codingame.com/) 🧩 (Here is [my profile](https://www.codingame.com/profile/ace136d450d023344c8451605faaec018445904)) and I do [advent of code](https://adventofcode.com/) 🎄 every year.
+
+## What I know
+
+I have some experience in
+- ☕️ java,
+- 🟨 javascript,
+- 🐍 python,
+- ⚙️ C,
+- 🖥️ and the web things: HTML and CSS.
+
+I've also done a tiny bit of C# for unity.
+
+## How I learned
+
+Most of the things I know, I learned on Youtube 📺 or on the Internet. I'm **always willing to learn something new**.  
+When it comes to coding 💻, I'm almost completely self-taught, thanks to all the resources online.  
+I especially love learning about **math** 🔢 and computer science (not just programming).
 
 ***
 
-I make some plugins for minecraft **spigot** and **paper**, but I also have tons of other projects.
-
-I play minecraft a lot, and I can make cool things with **command blocks**, **datapacks** and **resource packs**.
-
-I make projects just for myself, but i also work on **ElementaryLand**: https://discord.gg/7KFdWef
-
-***
-
-I know:
-- Java
-- Javascript
-- Python
-- HTML & CSS
-- C (a little bit)
-
-***
-
-And I'm **FRENCH** 🇫🇷 🥖
+And I'm **french** 🇫🇷 🥖
 
 <!--
 **itsRed-v2/itsRed-v2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
