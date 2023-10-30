@@ -5,12 +5,14 @@ I'm a nerd and I love **mathematics** (like really), physics and of course progr
 ## What I do
 
 A considerable amount of my lifetime was spent on Minecraft, and therefore
-- 🔩 I know a lot about the technical aspect of the game (which is fascinating) and I can make creations with command blocks, datapacks, resource packs, and redstone.
+- 🔩 I know a lot about the technical aspect of the game (which is fascinating) and I can make creations with command blocks, datapacks, resource packs, and redstone. Ask me if you think I can help on these topics !
 - 🔌 I made many plugins for spigot/paper, and I'm now trying to make a fabric clientside mod.
 
 However I didn't only do Minecraft-related projects, I also made a **discord bot** 🤖, a **web tool** 🔧, and many more fun projects.
 
 I also sometimes play on [Codingame](https://www.codingame.com/) 🧩 (Here is [my profile](https://www.codingame.com/profile/ace136d450d023344c8451605faaec018445904)) and I do [advent of code](https://adventofcode.com/) 🎄 every year.
+
+If you want to know more about my projects, or need help about anything related (or not) to the topics above, don't hesitate to ask me !
 
 ## What I know
 
