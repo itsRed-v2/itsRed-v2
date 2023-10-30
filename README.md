@@ -5,7 +5,7 @@ I'm a nerd and I love **mathematics** (like really), physics and of course progr
 ## What I do
 
 A considerable amount of my lifetime was spent on Minecraft, and therefore
-- 🔩 I know a lot about the technical aspect of the game (which is fascinating) and I can make creations with command blocks, datapacks, resource packs, and reds,
+- 🔩 I know a lot about the technical aspect of the game (which is fascinating) and I can make creations with command blocks, datapacks, resource packs, and redstone.
 - 🔌 I made many plugins for spigot/paper, and I'm now trying to make a fabric clientside mod.
 
 However I didn't only do Minecraft-related projects, I also made a **discord bot** 🤖, a **web tool** 🔧, and many more fun projects.
